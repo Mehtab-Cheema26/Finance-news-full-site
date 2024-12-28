@@ -119,17 +119,8 @@ buttonpython/
    - Check your internet connection.
    - Verify the CSV files are being created properly.
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
-- Reddit API
 - Twitter API
 - Google Custom Search API
 - Django Framework
